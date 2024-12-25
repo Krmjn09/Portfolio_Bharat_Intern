@@ -227,7 +227,6 @@ nav [class*="fa-"] {
   font-size: 150%;
   transition: transform 0.3s ease-in-out;
 }
-
 nav [class*="fa-"]:hover {
   transform: scale(1.2);
   color: var(--hotmag);
