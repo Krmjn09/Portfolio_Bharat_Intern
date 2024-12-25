@@ -1,6 +1,6 @@
 # Kriti Mahajan - Portfolio Website
 
-Welcome to my portfolio website repository! This repository contains the source code for my personal portfolio built with **HTML** and **CSS**. It showcases my skills, projects, and contact information, designed to create a clean, responsive, and professional online presence.
+Welcome to my portfolio website repository! This repository contains the source code for my simple personal portfolio built with **HTML** and **CSS**. It showcases my skills, projects, and contact information, designed to create a clean, responsive, and professional online presence.
 
 ## Table of Contents
 
